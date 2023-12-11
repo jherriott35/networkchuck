@@ -319,5 +319,5 @@ fi
 if [[ $team == "Coffee" || $team == "coffee" ]]; then
 	echo ""
 	echo "Nothing beats coffee!!!"
-	echo "networkchuck.com/coffee"
+	echo "networkchuck.coffee"
 fi
